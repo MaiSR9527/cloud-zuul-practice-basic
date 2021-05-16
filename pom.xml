@@ -10,6 +10,8 @@
     <version>1.0</version>
     <modules>
         <module>cloud-eureka-server</module>
+        <module>cloud-zuul-server</module>
+        <module>cloud-service-a</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
